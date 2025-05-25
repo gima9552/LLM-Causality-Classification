@@ -1,0 +1,271 @@
+
+The sentence explains a direct cause-effect relationship where the expansion of cities with minimal green spaces
+
+The sentence
+The sentence lists multiple features of PCR
+The sentence explains a cause-effect relation where rising global temperatures lead to polar ice cap melting, which in turn causes higher sea levels and subsequent threats to coastal areas. The multi-step causal process is explicitly detailed. The category is: **Strong Causation**
+
+The sentence explains a cause-effect
+
+
+
+
+
+The sentence explains a cause-effect relation where deforestation leads to decreased biodiversity and increased CO2 levels. The increased CO2 then contributes to climate change intensification through the loss of carbon sequestration, detailing
+
+
+
+The sentence lists multiple reasons for using the scientific method,
+The sentence explains a cause-effect relation where cooling a supersaturated solution leads to a series of molecular changes (loss of energy, bond formation, lattice creation). It details multiple steps in the causal process. **Category**: Strong Causation
+
+The sentence explains a cause-effect relation where snake venom (cause) leads to immobilizing prey (effect), which in turn improves food efficiency (further effect). It details multiple causal steps in the process. The category is: **Strong Causation**.
+
+
+The sentence explains a cause-effect relation where male deer
+The sentence explains a cause-effect relation where the spines of cacti (cause) directly
+
+
+
+
+The sentence explains a cause-effect relation where applying voltage leads to an electric field, electron movement, current flow, and ultimately powers devices. It details multiple steps in the causal process. The category is: **Strong Causation**
+The sentence explains a cause-effect relation between ethylene gas release and fruit ripening, detailing specific biochemical processes (starch breakdown, cell wall softening) as intermediate steps leading to the fruit's sweetness and softness.
+
+The sentence explains two contrasting scenarios
+The sentence explains a direct cause-effect relation where a deficiency of vitamin D leads to weakened bones and osteoporosis. The category is: Strong Causation
+The sentence explains a direct cause-effect relationship where overfishing leads to marine ecosystem imbalances, fish population collapse, and food web disruption. It
+
+
+
+
+
+
+
+
+
+
+
+
+The sentence explains a direct cause-effect relationship where the Earth's atmosphere causes sunlight scattering, which directly results in the blue sky. It details the causal mechanism (scattering) between the cause (atmosphere) and effect (blue color). The category is: **Strong Causation**
+
+The sentence details multiple reasons influencing mothers' conscious decision-making process regarding food choices, emphasizing motivations such as personal preference, practicality, and
+The sentence lists multiple reasons for developing quantum computers, emphasizing their advantageous features (speed, data processing
+The sentence explains that lateral
+
+
+
+
+The sentence explains the difference in electrical conductivity between copper and rubber by contrasting their atomic structures (free electrons vs. tightly bound electrons). It presents opposing explanations for their properties. The category is: Contrastive
+
+
+
+The sentence explains a cause-effect relation where broad leaves (cause)
+
+
+The sentence explains a cause-effect relation where repeated neural activity leads to changes in synaptic strength, which in turn enables the brain to store and recall information. It details the causal mechanism (synaptic plasticity) and its role in memory processes. The category is: **Strong Causation**
+
+
+
+
+
+
+
+The sentence explains the replication processes of RNA and DNA viruses, contrasting their mechanisms: RNA viruses use host machinery directly for quick replication, while DNA
+
+
+
+
+
+
+
+
+
+
+
+
+
+The sentence explains a cause-effect relation where the mimicry of distasteful species by butterflies leads to a reduced likelihood of predation. The defense mechanism is directly caused by the resemblance to poisonous species. The category is: **Strong Causation**
+
+
+The sentence explains a cause-effect relation where condensation of water vapor directly leads to cloud formation, which in turn
+
+
+
+
+The sentence explains the process of osmosis (cause: concentration gradient) and its effect (balancing environments to maintain
+
+
+The sentence explains a cause-effect relation where the ignition of fuel leads to a chain reaction: vaporization combines with oxygen, causing combustion, which produces heat that perpetuates the cycle. Each step directly causes the next. The category is: **Strong Caus
+
+The sentence discusses a correlation
+
+
+
+The sentence explains a cause-effect relation where the body's adjustment of hydrogen ions leads to maintaining blood pH, detailing the roles of kidneys
+
+
+
+
+
+
+
+
+
+
+
+
+
+The sentence explains a cause-effect relation where random genetic mutations lead to beneficial traits, which in turn enhance survival and reproductive success, resulting in these traits being inherited across generations and driving population adaptation. The multi-step causal process aligns with **Strong C
+
+
+The sentence explains a cause-effect relation between the pointed teeth of carnivores
+
+
+The sentence explains a direct cause-effect chain: the release of carbon dioxide leads to the greenhouse effect, which in turn causes global warming and climate change. The
+
+The sentence explains a cause-effect relation where the downregulation of miR-615-3p leads to increased LCOR levels, which in turn contribute to decreased PPARG. This describes a direct causal
+
+The sentence explains a cause-effect relation where applying voltage leads to an electric field, which then pushes electrons to create current, transferring energy through components. Each step directly causes the next. The category is: Strong Causation
+
+
+
+The sentence explains
+
+The sentence explains a direct cause-effect process where rising blood glucose levels trigger a sequence of biochemical events leading to insulin release. Each step (glucose entry, ATP/ADP increase, channel closures/openings) is causally linked in a mechanistic chain. The category is: **Strong Causation**.
+
+
+
+
+The sentence describes a direct cause-effect relationship where the binding of a ligand (cause) triggers a signaling cascade (intermediate step) that results in a cellular response (effect
+
+
+The sentence identifies multiple reasons for selecting randomized controlled trials, emphasizing the features that make them desirable (minimizing bias, clear comparisons, etc.). Since the selection reflects conscious decision-making based on these attributes, the category is: **Weak Causation**.
+
+
+
+
+
+
+The sentence explains that the preliminary study's findings (possible use of IA on horse hooves) led to the exclusion of rear hooves due to their anatomical
+The sentence explains a direct cause-effect chain where water vapor leads to cloud formation, which in turn leads to precipitation. It details a clear causal mechanism without contrasting alternatives or emphasizing indirect factors. The category is: **Strong Causation**.
+
+
+
+
+
+
+
+
+The sentence explains a direct cause-effect relationship where acid rain leads to the degradation of buildings and monuments,
+
+
+
+
+The sentence explains the behavior of a strong acid and contrasts
+The sentence explains a direct cause-effect relation where
+
+
+
+
+The sentence explains a cause-effect relation by detailing the multi-step process of fatty acid oxidation, where each biochemical step directly leads to the next (activation by coenzyme A → transport into mitochondria → beta-oxidation → entry into the citric acid cycle → ATP/NADH production
+The sentence explains
+
+
+
+The sentence explains a direct cause-effect relationship where enzyme defects (cause) lead to secondary carnitine deficiency (effect) through a detailed biological mechanism (
+
+
+
+
+
+
+
+The sentence explains the difference between two biological
+
+
+
+
+
+The sentence explains a
+
+The sentence explains a cause-effect relation where light moving between materials (cause) leads to refraction (effect) through an intermediate step (density differences causing light to slow and change direction). The category is: **Strong Causation**
+The sentence explains a direct cause-effect relationship where electricity passing through a wire (cause) leads to heating (intermediate effect), which subsequently enables the functioning of
+The sentence explains a cause-effect relation between the brain detecting a threat and the subsequent physiological responses (
+The sentence identifies multiple reasons for choosing NMR spectroscopy, emphasizing the features (d
+
+
+
+
+
+
+The sentence explains a detailed causal chain where disturbed fatty acid oxidation leads to a sequence of biochemical consequences (glucose depletion
+The sentence explains that the
+
+
+
+
+
+
+The sentence explains the
+
+
+
+The sentence explains a direct cause-effect relationship where defective carnitine absorption in renal tubules leads to excessive excretion, which in turn causes severely low carnitine levels in plasma and tissues. It details a clear, multi-step
+The sentence
+
+
+
+
+The sentence explains a cause-effect relation between tect
+The sentence identifies multiple reasons for choosing cross-sectional studies. Since the studies are selected based on their features (speed, cost, etc.), the sentence emphasizes conscious decision-making. The category is: **Weak Causation**.
+The sentence explains that the popularity of LEDs is due to their efficient energy conversion, which is a feature driving their adoption. The causality is indirect, focusing on the rationale for conscious selection of a technology. The category is: **Weak Causation**.
+
+
+
+
+The sentence explains the difference between bacterial and viral infections in terms of their response to treatments (antibiotics vs. antivirals/supportive care). It contrasts two causal relationships (cause of fever and corresponding treatment approaches). The category is: **Contrastive**
+The sentence compares strokes
+
+
+
+
+
+The sentence explains a cause
+
+The sentence lists multiple features (rapidity, minimal invasiveness, accuracy, etc.) of blood tests as reasons for their routine use. These are attributes that influence a conscious decision to employ them, rather than a direct cause-effect mechanism. The category is: **Weak Causation**.
+The sentence explains the design choices (aerodynamic shape, angle) of wind turbine blades as
+
+
+
+
+
+
+
+
+
+The sentence explains a cause-effect relation between the myelin coating on neuron axons and the faster transmission of electrical signals. It further connects this to improved nerve communication efficiency and its role in vital functions like movement coordination and cognitive tasks. The causal
+
+
+
+
+
+
+
+The sentence explains two distinct types of sexual selection—**intrasexual** (competition within a sex) and **intersexual** (mate choice based on traits)—and contrasts them using examples (e.g., males fighting vs. peacocks selecting mates). It highlights opposing mechanisms within evolutionary biology. The category is: **Contrastive**.
+
+
+
+
+
+The sentence explains how mutualistic relationships work with an example, and then explains coevolution, which is a different situation, to make a comparison. The category is: Contrastive
+
+
+
+
+
+The sentence explains a cause-effect relation where neuromuscular blocking agents bind to receptors, preventing acetylcholine activation, which directly causes muscle paralysis. The process includes multiple mechanistic steps (drug administration
+
+
+The sentence
+
+The sentence explains a cause-effect relation where the synergistic effect of nanocomposite
+
